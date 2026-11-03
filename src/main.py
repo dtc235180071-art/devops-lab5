@@ -19,6 +19,7 @@ def add_student(students: list, student_id: str, name: str, age: int, grade: str
 
 
 def main():
+    """Hàm chính của ứng dụng."""
     print("=" * 50)
     print("STUDENT MANAGER – DevOps Lab 5")
     print("=" * 50)
